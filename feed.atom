@@ -3,9 +3,9 @@
   <title>Lenguajes de Marcas</title>
   <subtitle>Noticias sobre la evolución de los lenguajes de marcas.</subtitle>
   <link href="https://lenguajesdemarcas.example.com"/>
-  <link rel="self" type="application/atom+xml" href="https://TUUSUARIO.github.io/TUREPO/feed.atom"/>
+  <link rel="self" type="application/atom+xml" href="https://ielksan784.github.io/lenguajes-marcas-feeds/feed.atom"/>
   <id>https://lenguajesdemarcas.example.com</id>
-  <updated>2026-11-10</updated>
+  <updated>2026-11-10 T12:00:00Z</updated>
   <rights>Copyright@2026</rights>
 
   <entry>
