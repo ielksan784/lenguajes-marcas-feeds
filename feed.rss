@@ -5,14 +5,14 @@
     <link>https://lenguajesdemarcas.example.com</link>
     <description>Noticias sobre la evolución de los lenguajes de marcas.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 10 Nov 2026</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:00:00 GMT</lastBuildDate>
     <copyright>Copyright@2026</copyright>
     <ttl>1</ttl>
     <skipDays>
       <day>Sunday</day>
       <day>Monday</day>
     </skipDays>
-    <atom:link href="https://TUUSUARIO.github.io/TUREPO/feed.rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://ielksan784.github.io/lenguajes-marcas-feeds/feed.rss" rel="self" type="application/rss+xml"/>
 
     <item>
       <title>Los inicios de los lenguajes de marcas</title>
